@@ -5,13 +5,13 @@
     "private": true,
     "license": "Apache-2.0",
     "devDependencies": {
-        "assert": "^1.4.1",
-        "clean-modules": "^1.0.4",
-        "command-line-args": "^5.0.2",
-        "command-line-usage": "^5.0.5",
-        "compare-versions": "^3.4.0",
-        "edit-json-file": "^1.1.0",
-        "fs-extra": "^7.0.0",
+        "assert": "^2.0.0",
+        "clean-modules": "^2.0.6",
+        "command-line-args": "^5.2.1",
+        "command-line-usage": "^7.0.1",
+        "compare-versions": "v6.0.0-rc.1",
+        "edit-json-file": "^1.7.0",
+        "fs-extra": "^11.1.1",
         "rimraf": "^3.0.0"
     }
 }
